@@ -1,0 +1,11 @@
+CUSTOMER_ID,CUSTOMER_NAME,EMAIL,CITY,STATE,COUNTRY,SIGNUP_DATE
+101,Danish Malik,danish@example.com,Delhi,Delhi,India,2024-01-15
+102,Rahul Sharma,rahul@example.com,Mumbai,Maharashtra,India,2024-02-10
+103,Priya Singh,priya@example.com,Bangalore,Karnataka,India,2024-03-05
+104,Aman Khan,aman@example.com,Hyderabad,Telangana,India,2024-03-20
+105,Neha Gupta,neha@example.com,Pune,Maharashtra,India,2024-04-12
+106,John Smith,john@example.com,New York,NY,USA,2024-05-01
+107,Emily Johnson,emily@example.com,Chicago,IL,USA,2024-05-15
+108,Michael Brown,michael@example.com,Dallas,TX,USA,2024-06-01
+109,Sarah Wilson,sarah@example.com,Seattle,WA,USA,2024-06-18
+110,David Miller,david@example.com,Boston,MA,USA,2024-07-05

@@ -1,0 +1,16 @@
+ORDER_ID,CUSTOMER_ID,PRODUCT_NAME,CATEGORY,QUANTITY,UNIT_PRICE,ORDER_DATE,PAYMENT_METHOD,ORDER_STATUS
+1001,101,Laptop,Electronics,1,75000.00,2024-07-01,Credit Card,Completed
+1002,102,Mouse,Electronics,2,1200.00,2024-07-02,UPI,Completed
+1003,103,Keyboard,Electronics,1,2500.00,2024-07-03,Credit Card,Completed
+1004,104,Monitor,Electronics,2,15000.00,2024-07-04,Debit Card,Completed
+1005,105,Office Chair,Furniture,1,12000.00,2024-07-05,UPI,Completed
+1006,101,Headphones,Electronics,1,3500.00,2024-07-08,Credit Card,Completed
+1007,106,Laptop,Electronics,1,900.00,2024-07-10,Credit Card,Completed
+1008,107,Desk,Furniture,1,450.00,2024-07-11,PayPal,Completed
+1009,108,Monitor,Electronics,1,300.00,2024-07-12,Credit Card,Cancelled
+1010,109,Keyboard,Electronics,2,80.00,2024-07-15,PayPal,Completed
+1011,110,Office Chair,Furniture,2,250.00,2024-07-18,Credit Card,Completed
+1012,102,Laptop,Electronics,1,85000.00,2024-07-20,UPI,Completed
+1013,103,Mouse,Electronics,3,1500.00,2024-07-21,UPI,Completed
+1014,104,Desk,Furniture,1,18000.00,2024-07-22,Debit Card,Completed
+1015,105,Headphones,Electronics,2,4000.00,2024-07-25,Credit Card,Pending
